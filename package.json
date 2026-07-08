@@ -1,1 +1,5 @@
-
+{
+  "name": "lrxui-host",
+  "version": "1.0.0",
+  "description": "LRXUI hosting for Roblox"
+}
