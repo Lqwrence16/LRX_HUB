@@ -89,7 +89,6 @@ local Library = {
 		Dark = Color3.new(0, 0, 0),
 		White = Color3.new(1, 1, 1),
 	},
-
 	Registry = {},
 	DPIRegistry = {},
 }
